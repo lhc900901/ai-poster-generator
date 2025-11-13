@@ -1,0 +1,1 @@
+// Example setup for pages function
